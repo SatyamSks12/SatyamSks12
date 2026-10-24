@@ -12,6 +12,20 @@
   <img src="https://img.shields.io/badge/LangGraph-9333EA?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <a href="https://satyamsks12.github.io">
+    <img src="https://img.shields.io/badge/OPEN%20MY%20LIVE%20DASHBOARD-2B50FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open live dashboard"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://satyamsks12.github.io">
+    <img src="assets/dashboard-preview.png" alt="Portfolio dashboard preview" width="90%"/>
+  </a>
+</p>
+
+<p align="center"><i>Click the preview to open the full interactive dashboard: skills, projects, certifications and live GitHub data.</i></p>
+
 ---
 
 ## 👋 About Me
@@ -23,6 +37,7 @@ I'm a **Software Analyst at Capgemini** building intelligent AI applications, mu
 - 💻 **Backend:** Python, FastAPI, C#, ASP.NET Core, .NET 8
 - 🧠 **AI stack:** LangGraph, LangChain, RAG, Embeddings, ChromaDB
 - 🏗️ **Architecture:** Microservices, REST APIs, Event-Driven Systems
+- 🌐 **Dashboard:** [satyamsks12.github.io](https://satyamsks12.github.io)
 - 📍 **Based in:** Bengaluru, India
 
 ---
@@ -154,6 +169,7 @@ Aug 2022 – May 2026 · CPI: 7.96
 I'm interested in AI engineering, agentic systems, backend architecture and building impactful software.
 
 <p>
+  <a href="https://satyamsks12.github.io"><img src="https://img.shields.io/badge/Dashboard-2B50FF?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="mailto:sk72574401@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/satyam-kumar-250263367"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
